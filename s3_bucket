@@ -5,7 +5,7 @@
       "Type": "AWS::S3::Bucket"
     }
   },
-  "Output":{
+  "Outputs":{
       "s3Buck":{
         "value":{
           Ref: "s3Buck"
