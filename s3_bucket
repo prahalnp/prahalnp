@@ -3,9 +3,6 @@
   "Resources": {
     "s3Buck":{
       "Type": "AWS::S3::Bucket"
-    },
-    "s3":{
-      "Type":"AWS::S3::Bucket"
     }
   }
 }
