@@ -7,7 +7,7 @@
   },
   "Outputs":{
       "s3Buck":{
-        "value":{
+        "Value":{
           Ref: "s3Buck"
         
         }
