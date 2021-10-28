@@ -3,6 +3,7 @@
   "Resources": {
     "s3Buck":{
       "Type": "AWS::S3::Bucket"
+      "BucketName":"S3_For_Demo"
     }
   }
 }
